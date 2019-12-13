@@ -5,9 +5,9 @@ import DigitalClicker from './components/DigitalClicker';
 import YouTubeDebugger from './components/YouTubeDebugger';
 
 ReactDOM.render(
-  <div>
+   <div>
     <DigitalClicker />
     <YouTubeDebugger />
-  </div>,
+    </div>,
   document.getElementById('global')
 );
